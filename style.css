@@ -1,0 +1,19 @@
+
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+    
+}
+
+.product_card{
+    width: 500px;
+    height:400px;
+    background-color: rgb(255, 0, 179);
+    padding:20px;
+    margin:20px;
+    border:10px solid yellowgreen;
+     box-sizing:border-box ;
+}
+
+  
